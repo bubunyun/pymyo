@@ -9,7 +9,7 @@ from pymyo import Myo
 from pymyo.types import EmgMode, EmgValue, ImuMode, SleepMode, UnsupportedFeatureError
 
 # Put your own Myo Bluetooth address here or device UUID if you're on macOS.
-MYO_ADDRESS = "D7:91:D9:1C:C3:EB"
+MYO_ADDRESS = "DD:31:D8:40:BC:22"
 
 
 async def main() -> None:
